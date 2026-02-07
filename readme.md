@@ -1,6 +1,7 @@
 # PotHole Patrol 
 
 PotHole Patrol is a rover-based embedded system designed to **detect, report, and track potholes** on Karnataka roads in real time. The rover uses onboard sensors to measure road irregularities and transmits location-tagged pothole data over WiFi.
+Not only potholes, but can also detect and speedbreakers  
 
 ---
 ##  Features
