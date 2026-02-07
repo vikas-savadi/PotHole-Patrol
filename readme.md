@@ -35,7 +35,7 @@ PotHole Patrol is a rover-based embedded system designed to **detect, report, an
   * ESP8266WiFi
 ---
 
-## ⚙ Setup Instructions
+## Setup Instructions
 
 1. Assemble hardware according to the wiring diagram
 
@@ -53,7 +53,7 @@ PotHole Patrol is a rover-based embedded system designed to **detect, report, an
 
 ---
 
-## 🎯 Project Goal
+## Project Goal
 
 To provide an automated and scalable system for **road maintenance monitoring**, helping authorities detect potholes early and improve road safety.
 
